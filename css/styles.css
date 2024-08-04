@@ -252,7 +252,9 @@ img {
     text-align: center;
     color: #2e2f42;
     margin-bottom: 8px;
-}.team-text {
+}
+
+.team-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
